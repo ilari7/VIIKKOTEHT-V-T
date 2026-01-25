@@ -4,8 +4,11 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-    game.cpp
+    T3MAIN.cpp \
+    chef.cpp \
+    italycheff.cpp \
 
 
 HEADERS += \
-    game.h
+    chef.h \
+    italycheff.h \
